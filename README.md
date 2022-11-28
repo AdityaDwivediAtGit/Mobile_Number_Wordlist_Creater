@@ -1,6 +1,6 @@
 # Mobile_Number_Wordlist_Generator
 
-This Repository contains a python script that generates a wordlist that can be used with programs like aricrack-ng and hashcat.
+This Repository contains a python script that generates a wordlist that can be used with programs like aircrack-ng and hashcat.
 It is the usual tendency of networks to use the owner's mobile phone number as the password.
 Even if you don't know the exact phone number, you can use this script to generate a wordlist that is capable of cracking any handshake using numeric password such as mobile number.
 
